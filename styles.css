@@ -25,3 +25,10 @@ h1 {
     color: white;
     font-size: 40px;
 }
+
+link {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 15px;
+}
