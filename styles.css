@@ -6,7 +6,7 @@ body{
 
 div {
     background-color: pink;
-    height: 350px;
+    height: 400px;
     width: 100%;
     margin: 0px;
     display: inline-block;
@@ -26,8 +26,10 @@ h1 {
     font-size: 40px;
 }
 
-link {
-    text-align: center;
+a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     font-family: 'Quicksand', sans-serif;
     color: white;
     font-size: 15px;
